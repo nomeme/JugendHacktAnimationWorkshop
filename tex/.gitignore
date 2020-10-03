@@ -1,0 +1,14 @@
+*.aux
+*.snm
+*.out
+*.fls
+*.log
+*.toc
+*.png
+*.jpg
+*.gif
+*.mp4
+*.nav
+*.mov
+*.pdf
+*latexmk
